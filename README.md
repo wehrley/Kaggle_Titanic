@@ -11,19 +11,19 @@ Kaggle Contest: Predicting Survival on the Titanic
 Variable Descriptions
 ----
 
-variable name | | description
+variable name | description
 --- | ---
-survival | | Survival (0 = No; 1 = Yes)
-pclass | | Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd) 
-name | | Name 
-sex | | Sex
-age | | Age
-sibsb | | Number of Siblings/Spouses Aboard 
-parch | | Number of Parents/Children Aboard 
-ticket | | Ticket Number 
-fare | | Passenger Fare 
-cabin | | Cabin 
-embarked | | Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
+survival | Survival (0 = No; 1 = Yes)
+pclass | Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd) 
+name | Name 
+sex | Sex
+age | Age
+sibsb | Number of Siblings/Spouses Aboard 
+parch | Number of Parents/Children Aboard 
+ticket | Ticket Number 
+fare | Passenger Fare 
+cabin | Cabin 
+embarked | Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
 
 Special Notes
 ----
